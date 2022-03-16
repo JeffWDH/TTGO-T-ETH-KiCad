@@ -4,7 +4,7 @@ A KiCad 6 footprint and symbol for the TTGO T-ETH ESP32 board.
 
 Pin definitions:
 
-|Programming header (left to right)|
+|Programming Header (left to right)|
 |------------------|
 |1 - TX            |
 |2 - RX            |
@@ -13,8 +13,8 @@ Pin definitions:
 |5 - GND           |
 |6 - 3V3           |
 
-Main Header
-|Left      |Right     |
+
+|Main Header|     |
 |----------|----------|
 |7 - IO36  |15 - IO39 |
 |8 - IO34  |16 - IO35 |
