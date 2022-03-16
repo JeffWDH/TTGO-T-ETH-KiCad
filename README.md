@@ -5,6 +5,7 @@ A KiCad 6 footprint and symbol for the TTGO T-ETH ESP32 board.
 Pin definitions:
 
 |Programming header|
+|(left to right    |
 |------------------|
 |1 - TX            |
 |2 - RX            |
