@@ -1,4 +1,4 @@
-A KiCad 6 footprint and symbol for the TTGO T-ETH ESP32 board.
+A KiCad 6 footprint and symbol for the TTGO T-ETH (also known as T-Internet-POE) ESP32 board.
 
 ![Board Layout](ttgo_t-eth_footprint.png)
 
